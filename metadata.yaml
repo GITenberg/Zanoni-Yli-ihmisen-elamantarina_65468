@@ -1,5 +1,8 @@
 _repo: Zanoni-Yli-ihmisen-elamantarina_65468
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lytton, Edward Bulwer Lytton, Baron
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/761
     wikipedia: https://en.wikipedia.org/wiki/Edward_Bulwer-Lytton,_1st_Baron_Lytton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65468#Zanoni-Yli-ihmisen-elamantarina
 gutenberg_issued: '2021-05-30'
 gutenberg_type: Text
 identifiers:
